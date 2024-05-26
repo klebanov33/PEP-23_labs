@@ -6,7 +6,7 @@ import time
 
 # Write a print function with the final message.
 
-for count in range(1,5):
+for count in range(1,6):
     print(str(count)+" Mississippi")
     use: time.sleep(1)
 print("Ready or not, here I come!")
