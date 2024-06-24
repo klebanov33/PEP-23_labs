@@ -18,6 +18,13 @@ def mysplit(strng):
             continue
     return new_list
 
+### TEST ###
+
+print(mysplit("To be or not to be, that is the question"))
+print(mysplit("To be or not to be,that is the question"))
+print(mysplit("   "))
+print(mysplit(" abc "))
+print(mysplit(""))
 
 ### OUTPUT ###
 
