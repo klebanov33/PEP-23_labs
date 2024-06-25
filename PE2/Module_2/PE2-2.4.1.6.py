@@ -16,7 +16,6 @@ x3 = ""
 x4 = ""
 
 num = input("Enter number: ")
-print(num)
 
 new_lst = list(num)
 
